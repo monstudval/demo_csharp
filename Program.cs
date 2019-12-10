@@ -6,9 +6,9 @@ namespace demo_csharp_1
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i < 5; i++)
+            for (int i = 0; i < 10; i++)
             {
-                Console.WriteLine(i);
+                Console.WriteLine("la valeur de i est " + i);
             }
             Console.WriteLine("Hello World!");
         }
