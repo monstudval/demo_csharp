@@ -1,0 +1,11 @@
+C:\Users\l.derbali\Desktop\versions\demo_csharp-1\bin\Debug\netcoreapp3.0\demo_csharp-1.exe
+C:\Users\l.derbali\Desktop\versions\demo_csharp-1\bin\Debug\netcoreapp3.0\demo_csharp-1.deps.json
+C:\Users\l.derbali\Desktop\versions\demo_csharp-1\bin\Debug\netcoreapp3.0\demo_csharp-1.runtimeconfig.json
+C:\Users\l.derbali\Desktop\versions\demo_csharp-1\bin\Debug\netcoreapp3.0\demo_csharp-1.runtimeconfig.dev.json
+C:\Users\l.derbali\Desktop\versions\demo_csharp-1\bin\Debug\netcoreapp3.0\demo_csharp-1.dll
+C:\Users\l.derbali\Desktop\versions\demo_csharp-1\bin\Debug\netcoreapp3.0\demo_csharp-1.pdb
+C:\Users\l.derbali\Desktop\versions\demo_csharp-1\obj\Debug\netcoreapp3.0\demo_csharp-1.csprojAssemblyReference.cache
+C:\Users\l.derbali\Desktop\versions\demo_csharp-1\obj\Debug\netcoreapp3.0\demo_csharp-1.AssemblyInfoInputs.cache
+C:\Users\l.derbali\Desktop\versions\demo_csharp-1\obj\Debug\netcoreapp3.0\demo_csharp-1.AssemblyInfo.cs
+C:\Users\l.derbali\Desktop\versions\demo_csharp-1\obj\Debug\netcoreapp3.0\demo_csharp-1.dll
+C:\Users\l.derbali\Desktop\versions\demo_csharp-1\obj\Debug\netcoreapp3.0\demo_csharp-1.pdb
